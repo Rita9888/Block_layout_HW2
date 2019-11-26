@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+div1{
+    background-color: orange;
+    height: 8%;
+    width: 48%;
+    float: left;
+    margin: 1%;
+}
+
+div2{
+    background-color: rgba(139, 202, 231, 0.877);
+    height: 36%;
+    width: 98%;
+    float: left;
+    margin: 0 1% 1% 1%;
+}
+
+div3{
+    background-color: lightpink;
+    height: 27%;
+    width: 31.3%;
+    float: left;
+    margin: 0 1% 1% 1%;
+}
+div4{
+    background-color: gray;
+    height: 18%;
+    width: 23%;
+    float: left;
+    margin: 0 1% 1% 1%;
+}

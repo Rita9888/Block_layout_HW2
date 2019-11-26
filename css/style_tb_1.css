@@ -1,0 +1,41 @@
+body{
+   height: 100wh;
+   margin: 0;
+   padding: 0;
+}
+table{
+    width: 100% ;
+    height: 100vh !important;
+}
+
+.str1{
+    background-color: orange; 
+}
+
+.str2{
+    background-color: paleturquoise;
+}
+
+.str3{
+    background-color: palevioletred;
+}
+
+.str4{
+    background-color: gray;
+}
+
+.block1{
+    height: 10% !important;
+}
+
+.block2{
+    height: 40% !important;
+}
+
+.block3{
+    height: 30% !important;
+}
+
+.block4{
+    height: 20% !important;
+}
